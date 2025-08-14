@@ -8,7 +8,7 @@
 `JavaScript` | `React` | `Node.js` | `Express.js` | `MongoDB` | `HTML` | `CSS`
 
 📚 **Tools & Platforms:**  
-`Git & GitHub` | `REST APIs` | `Figma` | `VS Code` | `Netlify` | `Heroku`
+`Git & GitHub` | `REST APIs` | `Figma` | `VS Code` | `GoogleCloud`
 
 ---
 
