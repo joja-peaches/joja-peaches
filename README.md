@@ -50,5 +50,6 @@ In the meantime, feel free to explore my pinned repositories to see what I’ve 
 _Thanks for stopping by!_ 👨‍💻✨  
 *Let’s build something awesome together.*
 
-![Codewars](https://github.r2v.ch/codewars?user=joja-peaches&stroke=MAGENTA)
-
+<p align="center">
+  <img src="https://github.r2v.ch/codewars?user=joja-peaches&stroke=MAGENTA" alt="Codewars" />
+</p>
