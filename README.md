@@ -37,6 +37,33 @@ In the meantime, feel free to explore my pinned repositories to see what I’ve 
 
 ---
 
+## 🛠️ Projects I'm Working On
+
+### 🍳 Personal Chef Website  
+A beautifully designed, responsive website for a personal chef — focused on showcasing menus, services, and booking options.  
+**Tech Stack:** HTML, CSS, JavaScript, Figma  
+**Status:** In Development  
+📍 Emphasizing clean UI and mobile-first design
+
+---
+
+### 🌙 Dream Dictionary Mobile App  
+A mobile app for tracking, tagging, and interpreting dreams using a curated dream dictionary. Built with **TypeScript** and **Android Studio** using **React Native (TSX)**.  
+**Features Planned:**  
+- 🌌 Searchable dream symbol index  
+- 📝 Personal dream journaling  
+- 📊 Symbol frequency tracking  
+
+**Status:** Prototyping core features  
+**Platform:** Android (iOS coming later)
+
+---
+
+<p align="center">
+  <em>More projects coming soon — stay tuned!</em> 🚧
+</p>
+
+
 ## 🤝 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/georgia-e-lloyd/)  
