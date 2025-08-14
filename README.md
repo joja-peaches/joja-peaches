@@ -67,7 +67,7 @@ A mobile app for tracking, tagging, and interpreting dreams using a curated drea
 ## 🤝 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/georgia-e-lloyd/)  
-- 🌐 Portfolio (Coming soon!)
+- 🌐 [Recent Projects](https://github.com/joja-peaches/Data_projects_TripleTen.git)
 - 📷 [Commercial and Fashion Photography](https://jojapeaches7.wordpress.com/)
 - 📱 [Event Photography Instagram](https://instagram.com/georgia_.lloyd)
 - 📫 Reach me at: **georgialloydphoto@gmail.com**
